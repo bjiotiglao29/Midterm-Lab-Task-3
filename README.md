@@ -16,4 +16,5 @@
 
 # pictures 
 
-![apin ni](https://github.com/user-attachments/assets/267e63a9-6fec-4b49-b075-81b4f7b393f5)
+![dashboard](https://github.com/user-attachments/assets/538a538d-668d-4e2c-90c1-1d6c319ebb6d)
+
